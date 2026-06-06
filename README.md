@@ -49,10 +49,10 @@ Loophole know the username and password of the admin panel of the network Mikrot
 تخمين كروت شبكات من اروع الادوات الاوامر دفعه وحده !!.
 
 ```bash
- git clone https://github.com/ehwb3Sploit/MikrotikSploit.git
- cd MikrotikSploit
+ git clone https://github.com/bdhlyyy2-design/ehwb3Sploit.git
+ cd ehwb3Sploit
  python3 -m pip install -r requirements.txt
- python3 MikrotikSploit.py
+ python3 ehwb3Sploit.py
 ```
 
 -------------------------------------
@@ -61,12 +61,12 @@ Loophole know the username and password of the admin panel of the network Mikrot
 ```BASH
  pkg update
  pkg install -y git
- git clone https://github.com/ehwb3Sploit/MikrotikSploit.git
- cd MikrotikSploit
+ git clone https://github.com/bdhlyyy2-design/ehwb3Sploit.git
+ cd ehwb3Sploit
  chmod +x setup.py
  ./setup.py install
  python3 -m pip install -r requirements.txt
- python3 MikrotikSploit.py
+ python3 ehwb3Sploit.py
 ```
 
 *************************************************************
